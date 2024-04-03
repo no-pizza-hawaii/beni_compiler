@@ -1,0 +1,10 @@
+schreibe "Gebe eine Zahl ein"!
+merke ganzzahl zahl!
+setze zahl auf eingabe ganzzahl!
+
+falls zahl modulo 2 gleich 0 mach
+    schreibe "Zahl " zahl " ist gerade"!
+ok
+falls zahl modulo 2 gleich 1 mach
+    schreibe "Zahl " zahl " ist ungerade"!
+ok

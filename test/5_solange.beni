@@ -1,0 +1,14 @@
+schreibe "Wie viele Fibonacci-Zahlen möchtest du ausgeben?"!
+merke ganzzahl nums als eingabe ganzzahl!
+
+merke ganzzahl a als 0!
+merke ganzzahl b als 1!
+merke ganzzahl c!
+
+solange nums groesser 0 mach
+    schreibe a!
+    setze c auf a plus b!
+    setze a auf b!
+    setze b auf c!
+    setze nums auf nums minus 1!
+ok

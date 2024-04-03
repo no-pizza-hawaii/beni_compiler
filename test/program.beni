@@ -1,0 +1,36 @@
+# Das ist ein Kommentar
+
+definiere abs von ganzzahl x zu ganzzahl als
+    falls x kleiner 0 mach
+        gib minus x!
+    sonst mach
+        gib x!
+    ok
+ok
+
+definiere quad_wurzel von ganzzahl n und ganzzahl shift zu ganzzahl als
+    merke ganzzahl x!
+    merke ganzzahl x_alt!
+    merke ganzzahl n_ein!
+    
+    falls n groesser 2147483647 durch shift mach
+        gib 2 mal (quad_wurzel von (n durch 4) und shift)!
+    ok
+    setze x auf shift!
+    setze n_ein auf n mal shift!
+    solange wahr mach
+        setze x_alt auf x!
+        setze x auf (x plus n_ein durch x) durch 2!
+        falls (abs von (x minus x_alt)) kleiner gleich 1 mach
+            gib x!
+        ok
+    ok
+ok
+
+schreibe "Welche Wurzel möchtest du berechnen?"!
+merke ganzzahl in_n als eingabe ganzzahl!
+
+schreibe "Shift?"!
+merke ganzzahl in_shift als eingabe ganzzahl!
+
+schreibe quad_wurzel von in_n und in_shift!

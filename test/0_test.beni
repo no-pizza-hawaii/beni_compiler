@@ -1,0 +1,10 @@
+# define function `hello` with argument `string name` and return type void
+definiere hallo von text name zu nichts als
+    schreibe "Hallo. Wie geht's, " name "?"!
+ok
+
+# Main routine
+hallo von "Peter"!
+hallo von "Heinz"!
+hallo von "Gertrude"!
+gib 0!

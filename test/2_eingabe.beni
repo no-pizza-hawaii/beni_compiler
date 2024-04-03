@@ -1,0 +1,4 @@
+schreibe "Wie heißt du?"!
+merke text input als eingabe text!
+#setze input auf eingabe ganzzahl!
+schreibe "Hallo, " input!

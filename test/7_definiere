@@ -1,0 +1,14 @@
+definiere abs von ganzzahl x zu ganzzahl als
+    falls x kleiner gleich 0 mach
+        gib minus x!
+    sonst mach
+        gib x!
+    ok
+ok
+
+schreibe "Gib eine Zahl ein"!
+merke ganzzahl in!
+setze in auf eingabe ganzzahl!
+
+setze in auf abs von in!
+schreibe in!
