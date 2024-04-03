@@ -1,4 +1,4 @@
-# Beni's Einzigartige Unnötige Informatik-Sprache (BENI)
+# Beni's Einzigartige Nichtsnützige Informatik-Sprache (BENI)
 
 This high-tech innovational brand-new programming language is the best language you have ever seen. It is completely written in German language keywords so it is very, very easy to understand if you know German (jaja).
 
